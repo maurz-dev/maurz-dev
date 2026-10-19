@@ -1,4 +1,4 @@
-# ¡Hola, Mundo! 
+# ¡Hola, Mundo! 👋
 
 ```python
 class SoftwareEngineer:
@@ -8,7 +8,7 @@ class SoftwareEngineer:
         self.languages = ["Java", "TypeScript", "JavaScript", "Python", "SQL"]
         self.backend = ["Java", "Node.js", "Express", "REST APIs", "PostgreSQL", "MySQL"]
         self.frontend = ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"]
-        self.challenges = "Transformando café e ideas en código eficiente y escalable "
+        self.challenges = "Transformando café e ideas en código eficiente y escalable ☕"
 
     def say_hi(self):
         print("¡Gracias por visitar mi perfil! Espero que encuentres algo interesante...")
