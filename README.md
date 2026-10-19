@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola, Mundo! 
 
-<!--
-**MauriceChavez315/MauriceChavez315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Maurice Chavez"
+        self.role = "Desarrollador Full Stack & Backend"
+        self.languages = ["Java", "TypeScript", "JavaScript", "Python", "SQL"]
+        self.backend = ["Java", "Node.js", "Express", "REST APIs", "PostgreSQL", "MySQL"]
+        self.frontend = ["React", "TypeScript", "JavaScript", "HTML5", "CSS3"]
+        self.challenges = "Transformando café e ideas en código eficiente y escalable "
 
-Here are some ideas to get you started:
+    def say_hi(self):
+        print("¡Gracias por visitar mi perfil! Espero que encuentres algo interesante...")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+me = SoftwareEngineer()
+me.say_hi()
