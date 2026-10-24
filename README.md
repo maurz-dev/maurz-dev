@@ -3,7 +3,7 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "SharKz-Dev"
+        self.name = "Maurz-Dev"
         self.role = "Desarrollador Full Stack"
         self.backend = ["Java", "Python", "Node.js"]
         self.frontend = ["React", "JavaScript", "HTML", "CSS"]
