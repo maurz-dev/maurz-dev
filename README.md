@@ -24,8 +24,6 @@ Desarrollo Web (Frontend & Backend) · Aplicaciones Móviles · Software de Escr
 
 ## Mi Stack Tecnológico
 
-**Lenguajes de Programación**
-
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 
 **web development:** ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)
@@ -38,7 +36,8 @@ Desarrollo Web (Frontend & Backend) · Aplicaciones Móviles · Software de Escr
 
 **Dev & infra:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white)
 
+## 📫 Get in touch
 
-<div align="center">
-  From <a href="https://github.com/maurz-dev">Maurz-Dev</a>
-</div>
+- 👔 [LinkedIn](https://www.linkedin.com/in/maurice-chavez-152225335/)
+- 📧 maurixxpmay.31@gmail.com
+
